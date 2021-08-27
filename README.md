@@ -1,4 +1,4 @@
-[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.co2ARyEVKE939uo5nlJ7LwHaEK&pid=Api&P=0&w=305&h=172)](https://rahulcode751.github.io)
+/*[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.co2ARyEVKE939uo5nlJ7LwHaEK&pid=Api&P=0&w=305&h=172)](https://rahulcode751.github.io) */
 [![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-20.jpg)]
 <h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
 <h3 align="center">I'm a programmer with good skills</h3>
