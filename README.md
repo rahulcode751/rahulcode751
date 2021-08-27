@@ -1,8 +1,7 @@
 
-[![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-20.jpg)]
+![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-20.jpg)
 <h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
 <h3 align="center">I'm a programmer,Frontend web developer and a musician</h3>
-[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.co2ARyEVKE939uo5nlJ7LwHaEK&pid=Api&P=0&w=305&h=172)](https://rahulcode751.github.io
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulcode751&label=Profile%20views&color=0e75b6&style=flat" alt="rahulcode751" /> </p>
 
