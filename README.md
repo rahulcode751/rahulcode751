@@ -1,5 +1,5 @@
 
-![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-20.jpg)
+
 <h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
 <h3 align="center">I'm a programmer,Frontend web developer and a musician</h3>
 
