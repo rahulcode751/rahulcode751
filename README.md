@@ -19,7 +19,7 @@
  height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/rahul-bairagi-b88b20165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul bairagi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rahulcode751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul bairagi" height="30" width="40" /></a>
-<a href="https://instagram.com/irahulbairagi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_bairagi_" height="30" width="40" /></a>
+<a href="https://instagram.com/irahulbairagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_bairagi_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahulcode751" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulcode751" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulcode_751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulcode_751" height="30" width="40" /></a>
 </p>
