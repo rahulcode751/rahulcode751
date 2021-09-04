@@ -1,5 +1,4 @@
-  <p> THANK YOU FOR VISITING MY GITHUB PROFILE </p>        
-  br
+
 ![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-20.jpg)
 
 <h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
