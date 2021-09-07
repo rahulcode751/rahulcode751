@@ -2,7 +2,7 @@
 
 
 
-
+<h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
 
 <h3 align="center">I'm a programmer,Frontend web developer and a musician</h3>
 
