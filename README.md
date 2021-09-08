@@ -8,8 +8,6 @@
 
 
 
-    
-<p align="left"> <img src="https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/235540324_368539098124545_1328644961935127356_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zQ9NtW-Xy_8AX80BvEW&_nc_ht=scontent.fidr1-1.fna&oh=2e34eee5dd409fb1b0906abb1d5ac8ed&oe=613A45B2" alt="rahulcode751" /> </p>
 
 <img align="left" alt="GIF" src="https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/235540324_368539098124545_1328644961935127356_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zQ9NtW-Xy_8AX80BvEW&_nc_ht=scontent.fidr1-1.fna&oh=2e34eee5dd409fb1b0906abb1d5ac8ed&oe=613A45B2" width="367" height="400" />
 
