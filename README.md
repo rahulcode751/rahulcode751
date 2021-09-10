@@ -21,6 +21,8 @@
 
 <p align="left"> <a href="https://twitter.com/rahulbairagi77" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbairagi77?logo=twitter&style=for-the-badge" alt="rahulbairagi77" /></a> </p>
 
+<p align="left"> <a href="https://instagram.com/irahulbairagi" target="blank"><img src="https://img.shields.io/instagram/follow/irahulbairagi?logo=instagram&style=for-the-badge" alt="irahulbairagi" /></a> </p>
+
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me.  My email -> **rahulbairagiofficial@yahoo.com**
