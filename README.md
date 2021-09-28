@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me.  My email -> **rahulbairagiofficial@yahoo.com**
+- 📫 How to reach me.  My email -> **rahulbairagiofficial@yahoo.com, rahulbairagioffical@gmail.com**
   <br>
 - 📫 How to reach me.  My Contact no. -> +91 8461964999
 
