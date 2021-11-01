@@ -5,20 +5,6 @@
 <h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
 
 <h3 align="center">I'm a programmer,Frontend web developer and a musician</h3>
-
-
-    
-<p align="center"> <img src="https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/235540324_368539098124545_1328644961935127356_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=B096cuQyJfIAX9Irg9W&_nc_ht=scontent.fidr1-1.fna&oh=65f94f8b1d777e2ad8a4b1a41ba38afa&oe=616BB5F2" alt="rahulcode751" /> </p>
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulcode751&label=Profile%20views&color=0e75b6&style=flat" alt="rahulcode751" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulcode751" alt="rahulcode751" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rahulbairagi77" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbairagi77?logo=twitter&style=for-the-badge" alt="rahulbairagi77" /></a> </p>
 
 
