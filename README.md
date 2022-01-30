@@ -27,14 +27,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulcode751&show_icons=true&locale=en&layout=compact" alt="rahulcode751" /></p> -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcode751&show_icons=true&locale=en" alt="rahulcode751" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulcode751&show_icons=true&locale=en&layout=compact" alt="rahulcode751" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcode751&show_icons=true&locale=en" alt="rahulcode751" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulcode751&" alt="rahulcode751" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulcode751&" alt="rahulcode751" /></p> -->
   <p> THANK YOU FOR VISITING MY GITHUB PROFILE </p>   
                                                                                                                     
+[![RAHUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulcode751&theme=midnight-purple&show_icons=true)](https://github.com/rahulcode751/github-readme-stats)
+<br>
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulcode751&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+                                                                                                              
 
 <br>
                                                              
