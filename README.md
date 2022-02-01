@@ -7,6 +7,7 @@
 <h3 align="center">I'm a programmer,Frontend web developer and a musician</h3>
 <p align="left"> <a href="https://twitter.com/rahulbairagi77" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbairagi77?logo=twitter&style=for-the-badge" alt="rahulbairagi77" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=rahulcode751&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
 
 - 🌱 I’m currently learning **web development**
 
