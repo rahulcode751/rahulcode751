@@ -9,7 +9,7 @@
 
 - 📫 How to reach me.  My email -> **rahulbairagiofficial@yahoo.com, rahulbairagioffical@gmail.com**
   <br>
-- 📫  My Contact no. -> +91 8461964999,+91 6264959991
+<1-- - 📫  My Contact no. -> +91 8461964999,+91 6264959991  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
