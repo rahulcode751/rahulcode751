@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAHUL BAIRAGI</h1>
 
-<h3 align="center">I'm a programmer,Frontend web developer and a musician</h3>
+<h3 align="center">I'm a programmer</h3>
 <p align="left"> <a href="https://twitter.com/rahulbairagi77" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbairagi77?logo=twitter&style=for-the-badge" alt="rahulbairagi77" /></a> </p>
 
 
@@ -9,7 +9,8 @@
 
 - 📫 How to reach me.  My email -> **rahulbairagiofficial@yahoo.com, rahulbairagioffical@gmail.com**
   <br>
-
+![ThumbsUpEngineerGamingGIF](https://user-images.githubusercontent.com/104666904/167990372-210ac355-75ab-48ac-a2c7-863bed8ab0b0.gif)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
