@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **web development**
+- 🌱 **web developer**
 
 - 📫 How to reach me.  My email -> **rahulbairagiofficial@yahoo.com, rahulbairagioffical@gmail.com**
   <br>
