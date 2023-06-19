@@ -1,3 +1,3 @@
 - Hi there 👋, I am Rahul Bairagi!
-- 👀 I’m interested in Web development and in Competitive programming.
-- 📫 How to reach me https://www.linkedin.com/in/rahul-bairagi-b88b20165/
+- 👀 I’m interested in Web development and Competitive programming.
+- 📫 How to reach me https://www.linkedin.com/in/rahul3008/
