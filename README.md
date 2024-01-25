@@ -1,4 +1,4 @@
 - Hi there 👋, I am Rahul Bairagi!
 - 👀 I’m interested in Java development, Web development, Automation, Manual testing, and Competitive programming.
 - 📫 How to reach me https://www.linkedin.com/in/rahul3008/
-- Resume: https://drive.google.com/file/d/1w2reGJl6pR_J4nGnvff_ZzjlXCqY6FBZ/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1RmIa4sgTavTEEEB5fKSIj5FajDQMra0E/view?usp=sharing
