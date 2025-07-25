@@ -1,4 +1,4 @@
 - Hi there 👋, I am Rahul Bairagi!
-- 👀 I’m interested in Java development, Web development, Automation, Manual testing, and Competitive programming.
-- 📫 How to reach me https://www.linkedin.com/in/rahul3008/
-- Resume: https://drive.google.com/file/d/1RmIa4sgTavTEEEB5fKSIj5FajDQMra0E/view?usp=sharing
+- Software Development Engineer with 1.6 years of experience in designing and developing backend systems for scalable, high-traffic applications. Proficient in Java, Spring Boot, Kafka, IBM MQ, Neo4j, and Kubernetes. Adept at delivering robust, production-grade solutions aligned with real-world business requirements. Known for a proactive mindset and a strong can do attitude.
+- How to reach me https://www.linkedin.com/in/rahul3008/
+- Resume: https://drive.google.com/file/d/1UVB56DyRfN9impyxqhq6ZgRVyQ-QTcOS/view?usp=sharing
