@@ -1,4 +1,4 @@
 - Hi there 👋, I am Rahul Bairagi!
-- Software Development Engineer with 1.6 years of experience in designing and developing backend systems for scalable, high-traffic applications. Proficient in Java, Spring Boot, Kafka, IBM MQ, Neo4j, and Kubernetes. Adept at delivering robust, production-grade solutions aligned with real-world business requirements. Known for a proactive mindset and a strong can do attitude.
+- Software Development Engineer with 1.6+ years of experience in designing and developing backend systems for scalable, high-traffic applications. Proficient in Java, Spring Boot, Kafka, IBM MQ, Neo4j, and Kubernetes. Adept at delivering robust, production-grade solutions aligned with real-world business requirements. Known for a proactive mindset and a strong can do attitude.
 - How to reach me https://www.linkedin.com/in/rahul3008/
-- Resume: https://drive.google.com/file/d/1UVB56DyRfN9impyxqhq6ZgRVyQ-QTcOS/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1Cd0huq3DK20YS3DMMvoZ63ON4StosQjf/view?usp=sharing
