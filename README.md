@@ -20,7 +20,7 @@ I specialize in building **robust, production-grade solutions** aligned with rea
 - **Messaging Systems:**  Kafka, IBM WebSphere MQ, RabbitMQ
 - **Databases:** PostgreSQL, Neo4j, Cassandra
 - **Developer Tools:** Git, GitHub, Docker, Kubernetes, Kibana, Grafana, Dynatrace, Rancher Desktop, Harness, JIRA, Confluence
-- **Others:** REST APIs, CI/CD, Object-Oriented Programming, Low-Level Design, Data Structures & Algorithms, Miscroservices
+- **Others:** REST APIs, CI/CD, Object-Oriented Programming, Low-Level Design, Data Structures & Algorithms, Microservices
 
 ## 🚀 About Me
 
